@@ -1,0 +1,9 @@
+{
+	"appId": "com.zenith.utility",
+	"appName": "Zenith Utility",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"packageClassList": []
+}
